@@ -1,5 +1,6 @@
 Fix virtual desktops on Windows with AHK 2.
 Detailed description: TODO LINK
+License: Free as in free markets.
 
 ## Controlls:
 - `Ctrl + Alt + Arrows`: Move Desktop
